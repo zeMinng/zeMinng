@@ -14,16 +14,16 @@ A web developer based in China.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zeMingGit&show_icons=true&theme=dark&locale=cn"
+    srcset="https://github-readme-stats.vercel.app/api?username=zeMinng&show_icons=true&theme=dark&locale=cn"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zeMingGit&show_icons=true&locale=cn"
+    srcset="https://github-readme-stats.vercel.app/api?username=zeMinng&show_icons=true&locale=cn"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=zeMingGit&show_icons=true&locale=cn"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeMinng&show_icons=true&locale=cn"/>
 </picture>
 </a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeMingGit" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeMinng" height="100%" />
 </a> -->
