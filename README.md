@@ -1,6 +1,6 @@
 ### Hi I'm zeMing 👋
 
-A web developer based in China.
+I am a rookie web development engineer.
 
 ## 🔭 Tech stack
 
